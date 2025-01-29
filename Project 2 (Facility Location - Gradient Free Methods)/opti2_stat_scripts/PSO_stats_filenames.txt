@@ -1,0 +1,6 @@
+sol_pso_gbest_N_50.txt
+sol_pso_gbest_N_100.txt
+sol_pso_gbest_N_200.txt
+sol_pso_lbest_N_50.txt
+sol_pso_lbest_N_100.txt
+sol_pso_lbest_N_200.txt

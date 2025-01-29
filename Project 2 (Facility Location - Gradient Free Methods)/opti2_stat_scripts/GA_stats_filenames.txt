@@ -1,0 +1,6 @@
+sol_ga_rw_N_50.txt
+sol_ga_rw_N_100.txt
+sol_ga_rw_N_200.txt
+sol_ga_tour_N_50.txt
+sol_ga_tour_N_100.txt
+sol_ga_tour_N_200.txt
