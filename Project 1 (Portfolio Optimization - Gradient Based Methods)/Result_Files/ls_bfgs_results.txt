@@ -1,0 +1,272 @@
+Point p1 => [0.90362412, 0.96392195, 0.50211596, 0.69145483]
+
+TERMINATION CRITERION: COMPUTATIONAL BUDGET RAN OUT
+ 
+Wolfe Line Search BFGS FINAL RESULTS --- --- --- --- --- --- --- ---
+ 
+INPUTS:
+Starting Point  = [0.90362412, 0.96392195, 0.50211596, 0.69145483]
+Wolfe Cond. Line Search Params: bounds epsilon = 0.0001 c1 = 0.0001 c2 = 0.9 a_max = 1
+epsilon=0.0001
+clamp X e = 1e-10
+ 
+RESULTS:
+xk best = [0.94894294 0.63014737 0.90056231 1.        ]
+fk best = -0.39088650185081897
+w = [0.27271198 0.18109491 0.25880811 0.28738501]
+Performance(w) = 0.5283203006363208
+Risk(w) = 0.09162253252366796
+ë*Risk(w) = 0.13743379878550194
+ 
+ITERATIONS - FUNCTION and GRADIENT CALLS - H and B FIXES:
+AVAILABLE COMPUTATIONAL BUDGET :  2000 (plus a few extra because it stops when f_calls > 2000)
+k = 666
+Function Calls = 2002
+Gradient Calls = 2003
+inv H fixes = 0
+*****************************************************
+Point p2 => [0.70834141, 0.05891796, 0.80561353, 0.64116189]
+
+TERMINATION CRITERION: COMPUTATIONAL BUDGET RAN OUT
+ 
+Wolfe Line Search BFGS FINAL RESULTS --- --- --- --- --- --- --- ---
+ 
+INPUTS:
+Starting Point  = [0.70834141, 0.05891796, 0.80561353, 0.64116189]
+Wolfe Cond. Line Search Params: bounds epsilon = 0.0001 c1 = 0.0001 c2 = 0.9 a_max = 1
+epsilon=0.0001
+clamp X e = 1e-10
+ 
+RESULTS:
+xk best = [0.68778137 0.         0.83334154 0.67527645]
+fk best = -0.44898289148926673
+w = [0.3131404  0.         0.37941258 0.30744702]
+Performance(w) = 0.5750541732894787
+Risk(w) = 0.0840475212001413
+ë*Risk(w) = 0.12607128180021196
+ 
+ITERATIONS - FUNCTION and GRADIENT CALLS - H and B FIXES:
+AVAILABLE COMPUTATIONAL BUDGET :  2000 (plus a few extra because it stops when f_calls > 2000)
+k = 666
+Function Calls = 2002
+Gradient Calls = 2003
+inv H fixes = 0
+*****************************************************
+Point p3 => [0.10062929, 0.56744996, 0.96195682, 0.03156802]
+
+TERMINATION CRITERION: COMPUTATIONAL BUDGET RAN OUT
+ 
+Wolfe Line Search BFGS FINAL RESULTS --- --- --- --- --- --- --- ---
+ 
+INPUTS:
+Starting Point  = [0.10062929, 0.56744996, 0.96195682, 0.03156802]
+Wolfe Cond. Line Search Params: bounds epsilon = 0.0001 c1 = 0.0001 c2 = 0.9 a_max = 1
+epsilon=0.0001
+clamp X e = 1e-10
+ 
+RESULTS:
+xk best = [0.12392547 0.52487964 1.         0.09966587]
+fk best = -0.372071838171136
+w = [0.07087648 0.30019351 0.57192828 0.05700173]
+Performance(w) = 0.6111262727111405
+Risk(w) = 0.15936962302666974
+ë*Risk(w) = 0.2390544345400046
+ 
+ITERATIONS - FUNCTION and GRADIENT CALLS - H and B FIXES:
+AVAILABLE COMPUTATIONAL BUDGET :  2000 (plus a few extra because it stops when f_calls > 2000)
+k = 666
+Function Calls = 2001
+Gradient Calls = 2002
+inv H fixes = 0
+*****************************************************
+Point p4 => [0.7172232, 0.10910059, 0.28863615, 0.96416363]
+
+TERMINATION CRITERION: COMPUTATIONAL BUDGET RAN OUT
+ 
+Wolfe Line Search BFGS FINAL RESULTS --- --- --- --- --- --- --- ---
+ 
+INPUTS:
+Starting Point  = [0.7172232, 0.10910059, 0.28863615, 0.96416363]
+Wolfe Cond. Line Search Params: bounds epsilon = 0.0001 c1 = 0.0001 c2 = 0.9 a_max = 1
+epsilon=0.0001
+clamp X e = 1e-10
+ 
+RESULTS:
+xk best = [0.69535992 0.         0.40531149 0.98393728]
+fk best = -0.42049252824706074
+w = [0.33356856 0.         0.19443049 0.47200095]
+Performance(w) = 0.5422571055077369
+Risk(w) = 0.08117638484045071
+ë*Risk(w) = 0.12176457726067608
+ 
+ITERATIONS - FUNCTION and GRADIENT CALLS - H and B FIXES:
+AVAILABLE COMPUTATIONAL BUDGET :  2000 (plus a few extra because it stops when f_calls > 2000)
+k = 666
+Function Calls = 2002
+Gradient Calls = 2003
+inv H fixes = 0
+*****************************************************
+Point p5 => [0.42583021, 0.95432923, 0.07941098, 0.28174186]
+
+TERMINATION CRITERION: COMPUTATIONAL BUDGET RAN OUT
+ 
+Wolfe Line Search BFGS FINAL RESULTS --- --- --- --- --- --- --- ---
+ 
+INPUTS:
+Starting Point  = [0.42583021, 0.95432923, 0.07941098, 0.28174186]
+Wolfe Cond. Line Search Params: bounds epsilon = 0.0001 c1 = 0.0001 c2 = 0.9 a_max = 1
+epsilon=0.0001
+clamp X e = 1e-10
+ 
+RESULTS:
+xk best = [0.58930683 0.09333869 0.97180559 1.        ]
+fk best = -0.4410741483247227
+w = [0.22200704 0.03516309 0.36610416 0.37672572]
+Performance(w) = 0.5951566538228179
+Risk(w) = 0.10272167033206347
+ë*Risk(w) = 0.1540825054980952
+ 
+ITERATIONS - FUNCTION and GRADIENT CALLS - H and B FIXES:
+AVAILABLE COMPUTATIONAL BUDGET :  2000 (plus a few extra because it stops when f_calls > 2000)
+k = 666
+Function Calls = 2001
+Gradient Calls = 2002
+inv H fixes = 0
+*****************************************************
+Point p6 => [0.60384535, 0.11496978, 0.90015125, 0.91582732]
+
+TERMINATION CRITERION: COMPUTATIONAL BUDGET RAN OUT
+ 
+Wolfe Line Search BFGS FINAL RESULTS --- --- --- --- --- --- --- ---
+ 
+INPUTS:
+Starting Point  = [0.60384535, 0.11496978, 0.90015125, 0.91582732]
+Wolfe Cond. Line Search Params: bounds epsilon = 0.0001 c1 = 0.0001 c2 = 0.9 a_max = 1
+epsilon=0.0001
+clamp X e = 1e-10
+ 
+RESULTS:
+xk best = [0.59353907 0.         0.95005707 0.96627485]
+fk best = -0.44878701542787575
+w = [0.2364819  0.         0.37852825 0.38498985]
+Performance(w) = 0.6004784771171603
+Risk(w) = 0.10112764112618955
+ë*Risk(w) = 0.15169146168928432
+ 
+ITERATIONS - FUNCTION and GRADIENT CALLS - H and B FIXES:
+AVAILABLE COMPUTATIONAL BUDGET :  2000 (plus a few extra because it stops when f_calls > 2000)
+k = 666
+Function Calls = 2003
+Gradient Calls = 2004
+inv H fixes = 0
+*****************************************************
+Point p7 => [0.61422968, 0.16807904, 0.71007527, 0.66524447]
+
+TERMINATION CRITERION: COMPUTATIONAL BUDGET RAN OUT
+ 
+Wolfe Line Search BFGS FINAL RESULTS --- --- --- --- --- --- --- ---
+ 
+INPUTS:
+Starting Point  = [0.61422968, 0.16807904, 0.71007527, 0.66524447]
+Wolfe Cond. Line Search Params: bounds epsilon = 0.0001 c1 = 0.0001 c2 = 0.9 a_max = 1
+epsilon=0.0001
+clamp X e = 1e-10
+ 
+RESULTS:
+xk best = [0.58101303 0.         0.79485417 0.75066191]
+fk best = -0.4490043938498703
+w = [0.27322129 0.         0.37378005 0.35299865]
+Performance(w) = 0.5875669757068949
+Risk(w) = 0.09237505457134973
+ë*Risk(w) = 0.13856258185702458
+ 
+ITERATIONS - FUNCTION and GRADIENT CALLS - H and B FIXES:
+AVAILABLE COMPUTATIONAL BUDGET :  2000 (plus a few extra because it stops when f_calls > 2000)
+k = 666
+Function Calls = 2002
+Gradient Calls = 2003
+inv H fixes = 0
+*****************************************************
+
+Point p8 => [0.57583732, 0.14106864, 0.53758021, 0.53470457]
+
+TERMINATION CRITERION: COMPUTATIONAL BUDGET RAN OUT
+ 
+Wolfe Line Search BFGS FINAL RESULTS --- --- --- --- --- --- --- ---
+ 
+INPUTS:
+Starting Point  = [0.57583732, 0.14106864, 0.53758021, 0.53470457]
+Wolfe Cond. Line Search Params: bounds epsilon = 0.0001 c1 = 0.0001 c2 = 0.9 a_max = 1
+epsilon=0.0001
+clamp X e = 1e-10
+ 
+RESULTS:
+xk best = [0.53567499 0.         0.61623617 0.60574942]
+fk best = -0.4458144056777542
+w = [0.30476589 0.         0.35060021 0.3446339 ]
+Performance(w) = 0.57379725185905
+Risk(w) = 0.08532189745419715
+ë*Risk(w) = 0.1279828461812957
+ 
+ITERATIONS - FUNCTION and GRADIENT CALLS - H and B FIXES:
+AVAILABLE COMPUTATIONAL BUDGET :  2000 (plus a few extra because it stops when f_calls > 2000)
+k = 666
+Function Calls = 2001
+Gradient Calls = 2002
+inv H fixes = 0
+*****************************************************
+Point p9 => [0.72509836, 0.19215341, 0.54516135, 0.02049204]
+
+TERMINATION CRITERION: COMPUTATIONAL BUDGET RAN OUT
+ 
+Wolfe Line Search BFGS FINAL RESULTS --- --- --- --- --- --- --- ---
+ 
+INPUTS:
+Starting Point  = [0.72509836, 0.19215341, 0.54516135, 0.02049204]
+Wolfe Cond. Line Search Params: bounds epsilon = 0.0001 c1 = 0.0001 c2 = 0.9 a_max = 1
+epsilon=0.0001
+clamp X e = 1e-10
+ 
+RESULTS:
+xk best = [0.6169619  0.         0.70801602 0.27613888]
+fk best = -0.4481124359275005
+w = [0.38533222 0.         0.44220136 0.17246642]
+Performance(w) = 0.5598156967035591
+Risk(w) = 0.07446884051737243
+ë*Risk(w) = 0.11170326077605865
+ 
+ITERATIONS - FUNCTION and GRADIENT CALLS - H and B FIXES:
+AVAILABLE COMPUTATIONAL BUDGET :  2000 (plus a few extra because it stops when f_calls > 2000)
+k = 666
+Function Calls = 2001
+Gradient Calls = 2002
+inv H fixes = 0
+*****************************************************
+
+Point p10 => [0.60436998, 0.66122049, 0.0072185, 0.73981168]
+
+TERMINATION CRITERION: COMPUTATIONAL BUDGET RAN OUT
+ 
+Wolfe Line Search BFGS FINAL RESULTS --- --- --- --- --- --- --- ---
+ 
+INPUTS:
+Starting Point  = [0.60436998, 0.66122049, 0.0072185, 0.73981168]
+Wolfe Cond. Line Search Params: bounds epsilon = 0.0001 c1 = 0.0001 c2 = 0.9 a_max = 1
+epsilon=0.0001
+clamp X e = 1e-10
+ 
+RESULTS:
+xk best = [0.67089938 0.26344951 0.51980445 1.        ]
+fk best = -0.4037200727822037
+w = [0.27337305 0.10734843 0.21180602 0.4074725 ]
+Performance(w) = 0.5391145189099863
+Risk(w) = 0.09026296408518843
+ë*Risk(w) = 0.13539444612778265
+ 
+ITERATIONS - FUNCTION and GRADIENT CALLS - H and B FIXES:
+AVAILABLE COMPUTATIONAL BUDGET :  2000 (plus a few extra because it stops when f_calls > 2000)
+k = 666
+Function Calls = 2001
+Gradient Calls = 2002
+inv H fixes = 0
+*****************************************************

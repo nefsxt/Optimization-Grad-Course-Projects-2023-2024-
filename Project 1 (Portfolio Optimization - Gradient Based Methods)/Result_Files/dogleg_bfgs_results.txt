@@ -1,0 +1,284 @@
+Point p1 => [0.90362412, 0.96392195, 0.50211596, 0.69145483]
+
+TERMINATION CRITERION : COMPUTATIONAL BUDGET RAN OUT
+ 
+Dogleg BFGS FINAL RESULTS --- --- --- --- --- --- --- --- --- --- ---
+ 
+INPUTS:
+Starting Point  = [0.90362412 0.96392195 0.50211596 0.69145483]
+Dogleg Method Params: dogleg epsilon = 0.0001 Dk_max = 1 h = 0.2
+epsilon=0.0001
+clamp X e = 1e-10
+ 
+RESULTS:
+xk best = [0.55552752 0.         0.6669045  0.78098617]
+fk best = -0.4435390174964895
+w = [0.27728984 0.         0.33288332 0.38982684]
+Performance(w) = 0.580465285805044
+Risk(w) = 0.09128417887236966
+ë*Risk(w) = 0.13692626830855448
+ 
+ITERATIONS - FUNCTION and GRADIENT CALLS - H and B FIXES:
+AVAILABLE COMPUTATIONAL BUDGET :  2000 (plus a few extra because it stops when f_calls > 2000)
+k = 500
+Function Calls = 2004
+Gradient Calls = 1002
+ H fixes = 0
+ B fixes = 0
+*****************************************************
+
+
+Point p2 => [0.70834141, 0.05891796, 0.80561353, 0.64116189]
+
+TERMINATION CRITERION : COMPUTATIONAL BUDGET RAN OUT
+ 
+Dogleg BFGS FINAL RESULTS --- --- --- --- --- --- --- --- --- --- ---
+ 
+INPUTS:
+Starting Point  = [0.70834141 0.05891796 0.80561353 0.64116189]
+Dogleg Method Params: dogleg epsilon = 0.0001 Dk_max = 1 h = 0.2
+epsilon=0.0001
+clamp X e = 1e-10
+ 
+RESULTS:
+xk best = [0.68778137 0.         0.83334154 0.67527645]
+fk best = -0.4489828913847481
+w = [0.3131404  0.         0.37941258 0.30744702]
+Performance(w) = 0.5750541727507851
+Risk(w) = 0.08404752091069127
+ë*Risk(w) = 0.1260712813660369
+ 
+ITERATIONS - FUNCTION and GRADIENT CALLS - H and B FIXES:
+AVAILABLE COMPUTATIONAL BUDGET :  2000 (plus a few extra because it stops when f_calls > 2000)
+k = 500
+Function Calls = 2004
+Gradient Calls = 1002
+ H fixes = 0
+ B fixes = 0
+*****************************************************
+Point p3 => [0.10062929, 0.56744996, 0.96195682, 0.03156802]
+
+TERMINATION CRITERION : COMPUTATIONAL BUDGET RAN OUT
+ 
+Dogleg BFGS FINAL RESULTS --- --- --- --- --- --- --- --- --- --- ---
+ 
+INPUTS:
+Starting Point  = [0.10062929 0.56744996 0.96195682 0.03156802]
+Dogleg Method Params: dogleg epsilon = 0.0001 Dk_max = 1 h = 0.2
+epsilon=0.0001
+clamp X e = 1e-10
+ 
+RESULTS:
+xk best = [0.12392547 0.52487965 1.         0.09966587]
+fk best = -0.37207183758105145
+w = [0.07087648 0.30019351 0.57192828 0.05700173]
+Performance(w) = 0.6111262723128347
+Risk(w) = 0.15936962315452216
+ë*Risk(w) = 0.23905443473178323
+ 
+ITERATIONS - FUNCTION and GRADIENT CALLS - H and B FIXES:
+AVAILABLE COMPUTATIONAL BUDGET :  2000 (plus a few extra because it stops when f_calls > 2000)
+k = 500
+Function Calls = 2004
+Gradient Calls = 1002
+ H fixes = 0
+ B fixes = 0
+*****************************************************
+Point p4 => [0.7172232, 0.10910059, 0.28863615, 0.96416363]
+
+TERMINATION CRITERION : COMPUTATIONAL BUDGET RAN OUT
+ 
+Dogleg BFGS FINAL RESULTS --- --- --- --- --- --- --- --- --- --- ---
+ 
+INPUTS:
+Starting Point  = [0.7172232  0.10910059 0.28863615 0.96416363]
+Dogleg Method Params: dogleg epsilon = 0.0001 Dk_max = 1 h = 0.2
+epsilon=0.0001
+clamp X e = 1e-10
+ 
+RESULTS:
+xk best = [0.70369008 0.         0.43417335 0.99138475]
+fk best = -0.42231434487776026
+w = [0.33048758 0.         0.20390923 0.46560319]
+Performance(w) = 0.5446156299983392
+Risk(w) = 0.08153419008038604
+ë*Risk(w) = 0.12230128512057906
+ 
+ITERATIONS - FUNCTION and GRADIENT CALLS - H and B FIXES:
+AVAILABLE COMPUTATIONAL BUDGET :  2000 (plus a few extra because it stops when f_calls > 2000)
+k = 500
+Function Calls = 2004
+Gradient Calls = 1002
+ H fixes = 0
+ B fixes = 0
+*****************************************************
+Point p5 => [0.42583021, 0.95432923, 0.07941098, 0.28174186]
+
+TERMINATION CRITERION : COMPUTATIONAL BUDGET RAN OUT
+ 
+Dogleg BFGS FINAL RESULTS --- --- --- --- --- --- --- --- --- --- ---
+ 
+INPUTS:
+Starting Point  = [0.42583021 0.95432923 0.07941098 0.28174186]
+Dogleg Method Params: dogleg epsilon = 0.0001 Dk_max = 1 h = 0.2
+epsilon=0.0001
+clamp X e = 1e-10
+ 
+RESULTS:
+xk best = [0.46731002 0.         0.74311421 0.80636904]
+fk best = -0.4471902994049962
+w = [0.23170943 0.         0.36846325 0.39982732]
+Performance(w) = 0.6006549650215047
+Risk(w) = 0.1023097770776723
+ë*Risk(w) = 0.15346466561650846
+ 
+ITERATIONS - FUNCTION and GRADIENT CALLS - H and B FIXES:
+AVAILABLE COMPUTATIONAL BUDGET :  2000 (plus a few extra because it stops when f_calls > 2000)
+k = 500
+Function Calls = 2004
+Gradient Calls = 1001
+ H fixes = 0
+ B fixes = 0
+*****************************************************
+Point p6 => [0.60384535, 0.11496978, 0.90015125, 0.91582732]
+
+TERMINATION CRITERION : COMPUTATIONAL BUDGET RAN OUT
+ 
+Dogleg BFGS FINAL RESULTS --- --- --- --- --- --- --- --- --- --- ---
+ 
+INPUTS:
+Starting Point  = [0.60384535 0.11496978 0.90015125 0.91582732]
+Dogleg Method Params: dogleg epsilon = 0.0001 Dk_max = 1 h = 0.2
+epsilon=0.0001
+clamp X e = 1e-10
+ 
+RESULTS:
+xk best = [0.59288778 0.         0.959329   0.96599723]
+fk best = -0.4490688273065806
+w = [0.23543979 0.         0.3809561  0.38360411]
+Performance(w) = 0.6011668876859266
+Risk(w) = 0.10139870691956404
+ë*Risk(w) = 0.15209806037934606
+ 
+ITERATIONS - FUNCTION and GRADIENT CALLS - H and B FIXES:
+AVAILABLE COMPUTATIONAL BUDGET :  2000 (plus a few extra because it stops when f_calls > 2000)
+k = 500
+Function Calls = 2004
+Gradient Calls = 881
+ H fixes = 0
+ B fixes = 0
+*****************************************************
+
+Point p7 => [0.61422968, 0.16807904, 0.71007527, 0.66524447]
+
+TERMINATION CRITERION : COMPUTATIONAL BUDGET RAN OUT
+ 
+Dogleg BFGS FINAL RESULTS --- --- --- --- --- --- --- --- --- --- ---
+ 
+INPUTS:
+Starting Point  = [0.61422968 0.16807904 0.71007527 0.66524447]
+Dogleg Method Params: dogleg epsilon = 0.0001 Dk_max = 1 h = 0.2
+epsilon=0.0001
+clamp X e = 1e-10
+ 
+RESULTS:
+xk best = [0.57974891 0.         0.82232621 0.75281462]
+fk best = -0.44995350664546996
+w = [0.26903878 0.         0.38160941 0.34935181]
+Performance(w) = 0.5900608886754338
+Risk(w) = 0.0934049213533093
+ë*Risk(w) = 0.14010738202996395
+ 
+ITERATIONS - FUNCTION and GRADIENT CALLS - H and B FIXES:
+AVAILABLE COMPUTATIONAL BUDGET :  2000 (plus a few extra because it stops when f_calls > 2000)
+k = 500
+Function Calls = 2004
+Gradient Calls = 882
+ H fixes = 0
+ B fixes = 0
+*****************************************************
+Point p8 => [0.57583732, 0.14106864, 0.53758021, 0.53470457]
+
+TERMINATION CRITERION : COMPUTATIONAL BUDGET RAN OUT
+ 
+Dogleg BFGS FINAL RESULTS --- --- --- --- --- --- --- --- --- --- ---
+ 
+INPUTS:
+Starting Point  = [0.57583732 0.14106864 0.53758021 0.53470457]
+Dogleg Method Params: dogleg epsilon = 0.0001 Dk_max = 1 h = 0.2
+epsilon=0.0001
+clamp X e = 1e-10
+ 
+RESULTS:
+xk best = [0.53818644 0.         0.62366233 0.6103306 ]
+fk best = -0.44600402861070443
+w = [0.30368621 0.         0.35191829 0.3443955 ]
+Performance(w) = 0.5743422661391998
+Risk(w) = 0.08555882501899684
+ë*Risk(w) = 0.12833823752849527
+ 
+ITERATIONS - FUNCTION and GRADIENT CALLS - H and B FIXES:
+AVAILABLE COMPUTATIONAL BUDGET :  2000 (plus a few extra because it stops when f_calls > 2000)
+k = 500
+Function Calls = 2004
+Gradient Calls = 1002
+ H fixes = 0
+ B fixes = 0
+*****************************************************
+
+Point p9 => [0.72509836, 0.19215341, 0.54516135, 0.02049204]
+
+TERMINATION CRITERION : COMPUTATIONAL BUDGET RAN OUT
+ 
+Dogleg BFGS FINAL RESULTS --- --- --- --- --- --- --- --- --- --- ---
+ 
+INPUTS:
+Starting Point  = [0.72509836 0.19215341 0.54516135 0.02049204]
+Dogleg Method Params: dogleg epsilon = 0.0001 Dk_max = 1 h = 0.2
+epsilon=0.0001
+clamp X e = 1e-10
+ 
+RESULTS:
+xk best = [0.62614232 0.         0.81335612 0.36986844]
+fk best = -0.45302331376292504
+w = [0.34605603 0.         0.44952526 0.20441871]
+Performance(w) = 0.5739345278232926
+Risk(w) = 0.08060747604024503
+ë*Risk(w) = 0.12091121406036753
+ 
+ITERATIONS - FUNCTION and GRADIENT CALLS - H and B FIXES:
+AVAILABLE COMPUTATIONAL BUDGET :  2000 (plus a few extra because it stops when f_calls > 2000)
+k = 500
+Function Calls = 2004
+Gradient Calls = 1001
+ H fixes = 0
+ B fixes = 0
+*****************************************************
+Point p10 => [0.60436998, 0.66122049, 0.0072185, 0.73981168]
+
+TERMINATION CRITERION : COMPUTATIONAL BUDGET RAN OUT
+ 
+Dogleg BFGS FINAL RESULTS --- --- --- --- --- --- --- --- --- --- ---
+ 
+INPUTS:
+Starting Point  = [0.60436998 0.66122049 0.0072185  0.73981168]
+Dogleg Method Params: dogleg epsilon = 0.0001 Dk_max = 1 h = 0.2
+epsilon=0.0001
+clamp X e = 1e-10
+ 
+RESULTS:
+xk best = [0.53509213 0.         0.53346568 0.87183939]
+fk best = -0.43436408640469204
+w = [0.27576422 0.         0.27492602 0.44930975]
+Performance(w) = 0.5728311030206843
+Risk(w) = 0.09231134441066152
+ë*Risk(w) = 0.13846701661599228
+ 
+ITERATIONS - FUNCTION and GRADIENT CALLS - H and B FIXES:
+AVAILABLE COMPUTATIONAL BUDGET :  2000 (plus a few extra because it stops when f_calls > 2000)
+k = 500
+Function Calls = 2004
+Gradient Calls = 1002
+ H fixes = 0
+ B fixes = 0
+*****************************************************

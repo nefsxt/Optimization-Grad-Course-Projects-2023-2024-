@@ -1,0 +1,278 @@
+Point p1 => [0.90362412, 0.96392195, 0.50211596, 0.69145483]
+
+
+TERMINATION CRITERION : COMPUTATIONAL BUDGET RAN OUT
+ 
+CJ Polak-Ribiere FINAL RESULTS  --- --- --- --- --- --- --- --- --- ---
+ 
+INPUTS:
+Starting Point  = [0.90362412 0.96392195 0.50211596 0.69145483]
+Wolfe Cond. Line Search Params: bounds epsilon = 0.0001 c1 = 0.0001 c2 = 0.1 a_max = 1
+epsilon=1e-06
+clamp X e = 1e-10
+ 
+RESULTS:
+xk best = [0.93987165 0.60707979 0.89826982 1.        ]
+fk best = -0.3927054393313678
+w = [0.27280444 0.17620923 0.26072921 0.29025712]
+Performance(w) = 0.5297265769779773
+Risk(w) = 0.09134742509773966
+ë*Risk(w) = 0.1370211376466095
+ 
+ITERATIONS - FUNCTION and GRADIENT CALLS
+AVAILABLE COMPUTATIONAL BUDGET :  2000 (plus a few extra because it stops when f_calls > 2000)
+k = 111
+Function Calls = 2001
+Gradient Calls = 1891
+*****************************************************
+
+Point p2 => [0.70834141, 0.05891796, 0.80561353, 0.64116189]
+
+
+TERMINATION CRITERION : COMPUTATIONAL BUDGET RAN OUT
+ 
+CJ Polak-Ribiere FINAL RESULTS  --- --- --- --- --- --- --- --- --- ---
+ 
+INPUTS:
+Starting Point  = [0.70834141 0.05891796 0.80561353 0.64116189]
+Wolfe Cond. Line Search Params: bounds epsilon = 0.0001 c1 = 0.0001 c2 = 0.1 a_max = 1
+epsilon=1e-06
+clamp X e = 1e-10
+ 
+RESULTS:
+xk best = [0.68778137 0.         0.83334154 0.67527645]
+fk best = -0.4489828913864151
+w = [0.3131404  0.         0.37941258 0.30744702]
+Performance(w) = 0.5750541727600001
+Risk(w) = 0.0840475209157233
+ë*Risk(w) = 0.12607128137358495
+ 
+ITERATIONS - FUNCTION and GRADIENT CALLS
+AVAILABLE COMPUTATIONAL BUDGET :  2000 (plus a few extra because it stops when f_calls > 2000)
+k = 112
+Function Calls = 2016
+Gradient Calls = 1905
+*****************************************************
+
+Point p3 => [0.10062929, 0.56744996, 0.96195682, 0.03156802]
+
+
+TERMINATION CRITERION : COMPUTATIONAL BUDGET RAN OUT
+ 
+CJ Polak-Ribiere FINAL RESULTS  --- --- --- --- --- --- --- --- --- ---
+ 
+INPUTS:
+Starting Point  = [0.10062929 0.56744996 0.96195682 0.03156802]
+Wolfe Cond. Line Search Params: bounds epsilon = 0.0001 c1 = 0.0001 c2 = 0.1 a_max = 1
+epsilon=1e-06
+clamp X e = 1e-10
+ 
+RESULTS:
+xk best = [0.12392547 0.52487965 1.         0.09966586]
+fk best = -0.372071837317296
+w = [0.07087648 0.30019351 0.57192828 0.05700173]
+Performance(w) = 0.6111262724083976
+Risk(w) = 0.1593696233940678
+ë*Risk(w) = 0.2390544350911017
+ 
+ITERATIONS - FUNCTION and GRADIENT CALLS
+AVAILABLE COMPUTATIONAL BUDGET :  2000 (plus a few extra because it stops when f_calls > 2000)
+k = 101
+Function Calls = 2020
+Gradient Calls = 1920
+*****************************************************
+
+Point p4 => [0.7172232, 0.10910059, 0.28863615, 0.96416363]
+
+
+TERMINATION CRITERION : COMPUTATIONAL BUDGET RAN OUT
+ 
+CJ Polak-Ribiere FINAL RESULTS  --- --- --- --- --- --- --- --- --- ---
+ 
+INPUTS:
+Starting Point  = [0.7172232  0.10910059 0.28863615 0.96416363]
+Wolfe Cond. Line Search Params: bounds epsilon = 0.0001 c1 = 0.0001 c2 = 0.1 a_max = 1
+epsilon=1e-06
+clamp X e = 1e-10
+ 
+RESULTS:
+xk best = [0.6965958  0.         0.40832771 0.98550794]
+fk best = -0.42066744004263135
+w = [0.33323064 0.         0.19533178 0.47143758]
+Performance(w) = 0.5424963547347098
+Risk(w) = 0.08121927646138564
+ë*Risk(w) = 0.12182891469207846
+ 
+ITERATIONS - FUNCTION and GRADIENT CALLS
+AVAILABLE COMPUTATIONAL BUDGET :  2000 (plus a few extra because it stops when f_calls > 2000)
+k = 112
+Function Calls = 2017
+Gradient Calls = 1906
+*****************************************************
+
+Point p5 => [0.42583021, 0.95432923, 0.07941098, 0.28174186]
+
+
+TERMINATION CRITERION : COMPUTATIONAL BUDGET RAN OUT
+ 
+CJ Polak-Ribiere FINAL RESULTS  --- --- --- --- --- --- --- --- --- ---
+ 
+INPUTS:
+Starting Point  = [0.42583021 0.95432923 0.07941098 0.28174186]
+Wolfe Cond. Line Search Params: bounds epsilon = 0.0001 c1 = 0.0001 c2 = 0.1 a_max = 1
+epsilon=1e-06
+clamp X e = 1e-10
+ 
+RESULTS:
+xk best = [0.65429715 0.28068203 0.96324778 1.        ]
+fk best = -0.4243675671024326
+w = [0.22575773 0.09684612 0.33235761 0.34503854]
+Performance(w) = 0.5744293730263245
+Risk(w) = 0.10004120394926123
+ë*Risk(w) = 0.15006180592389184
+ 
+ITERATIONS - FUNCTION and GRADIENT CALLS
+AVAILABLE COMPUTATIONAL BUDGET :  2000 (plus a few extra because it stops when f_calls > 2000)
+k = 111
+Function Calls = 2005
+Gradient Calls = 1895
+*****************************************************
+
+Point p6 => [0.60384535, 0.11496978, 0.90015125, 0.91582732]
+
+
+TERMINATION CRITERION : COMPUTATIONAL BUDGET RAN OUT
+ 
+CJ Polak-Ribiere FINAL RESULTS  --- --- --- --- --- --- --- --- --- ---
+ 
+INPUTS:
+Starting Point  = [0.60384535 0.11496978 0.90015125 0.91582732]
+Wolfe Cond. Line Search Params: bounds epsilon = 0.0001 c1 = 0.0001 c2 = 0.1 a_max = 1
+epsilon=1e-06
+clamp X e = 1e-10
+ 
+RESULTS:
+xk best = [0.59370131 0.         0.95072335 0.96662353]
+fk best = -0.44879690826582846
+w = [0.23643565 0.         0.37861613 0.38494822]
+Performance(w) = 0.6005062390032108
+Risk(w) = 0.10113955382492155
+ë*Risk(w) = 0.15170933073738233
+ 
+ITERATIONS - FUNCTION and GRADIENT CALLS
+AVAILABLE COMPUTATIONAL BUDGET :  2000 (plus a few extra because it stops when f_calls > 2000)
+k = 118
+Function Calls = 2007
+Gradient Calls = 1890
+*****************************************************
+
+Point p7 => [0.61422968, 0.16807904, 0.71007527, 0.66524447]
+
+
+TERMINATION CRITERION : COMPUTATIONAL BUDGET RAN OUT
+ 
+CJ Polak-Ribiere FINAL RESULTS  --- --- --- --- --- --- --- --- --- ---
+ 
+INPUTS:
+Starting Point  = [0.61422968 0.16807904 0.71007527 0.66524447]
+Wolfe Cond. Line Search Params: bounds epsilon = 0.0001 c1 = 0.0001 c2 = 0.1 a_max = 1
+epsilon=1e-06
+clamp X e = 1e-10
+ 
+RESULTS:
+xk best = [0.58189582 0.         0.7975144  0.75227533]
+fk best = -0.4490463666521288
+w = [0.27297451 0.         0.37412385 0.35290164]
+Performance(w) = 0.5876975234387765
+Risk(w) = 0.09243410452443174
+ë*Risk(w) = 0.1386511567866476
+ 
+ITERATIONS - FUNCTION and GRADIENT CALLS
+AVAILABLE COMPUTATIONAL BUDGET :  2000 (plus a few extra because it stops when f_calls > 2000)
+k = 112
+Function Calls = 2017
+Gradient Calls = 1906
+*****************************************************
+
+Point p8 => [0.57583732, 0.14106864, 0.53758021, 0.53470457]
+
+
+TERMINATION CRITERION : COMPUTATIONAL BUDGET RAN OUT
+ 
+CJ Polak-Ribiere FINAL RESULTS  --- --- --- --- --- --- --- --- --- ---
+ 
+INPUTS:
+Starting Point  = [0.57583732 0.14106864 0.53758021 0.53470457]
+Wolfe Cond. Line Search Params: bounds epsilon = 0.0001 c1 = 0.0001 c2 = 0.1 a_max = 1
+epsilon=1e-06
+clamp X e = 1e-10
+ 
+RESULTS:
+xk best = [0.53915876 0.         0.62681574 0.61200498]
+fk best = -0.4460922204100177
+w = [0.3032424  0.         0.35254385 0.34421375]
+Performance(w) = 0.5745780665296457
+Risk(w) = 0.08565723074641864
+ë*Risk(w) = 0.12848584611962796
+ 
+ITERATIONS - FUNCTION and GRADIENT CALLS
+AVAILABLE COMPUTATIONAL BUDGET :  2000 (plus a few extra because it stops when f_calls > 2000)
+k = 112
+Function Calls = 2017
+Gradient Calls = 1906
+*****************************************************
+
+Point p9 => [0.72509836, 0.19215341, 0.54516135, 0.02049204]
+
+
+TERMINATION CRITERION : COMPUTATIONAL BUDGET RAN OUT
+ 
+CJ Polak-Ribiere FINAL RESULTS  --- --- --- --- --- --- --- --- --- ---
+ 
+INPUTS:
+Starting Point  = [0.72509836 0.19215341 0.54516135 0.02049204]
+Wolfe Cond. Line Search Params: bounds epsilon = 0.0001 c1 = 0.0001 c2 = 0.1 a_max = 1
+epsilon=1e-06
+clamp X e = 1e-10
+ 
+RESULTS:
+xk best = [0.619359   0.         0.7438527  0.31468172]
+fk best = -0.4501954224225679
+w = [0.36912893 0.         0.44332536 0.18754571]
+Performance(w) = 0.5653738040930036
+Risk(w) = 0.07678558778029052
+ë*Risk(w) = 0.11517838167043577
+ 
+ITERATIONS - FUNCTION and GRADIENT CALLS
+AVAILABLE COMPUTATIONAL BUDGET :  2000 (plus a few extra because it stops when f_calls > 2000)
+k = 106
+Function Calls = 2015
+Gradient Calls = 1910
+*****************************************************
+Point p10 => [0.60436998, 0.66122049, 0.0072185, 0.73981168]
+
+
+TERMINATION CRITERION : COMPUTATIONAL BUDGET RAN OUT
+ 
+CJ Polak-Ribiere FINAL RESULTS  --- --- --- --- --- --- --- --- --- ---
+ 
+INPUTS:
+Starting Point  = [0.60436998 0.66122049 0.0072185  0.73981168]
+Wolfe Cond. Line Search Params: bounds epsilon = 0.0001 c1 = 0.0001 c2 = 0.1 a_max = 1
+epsilon=1e-06
+clamp X e = 1e-10
+ 
+RESULTS:
+xk best = [0.68293517 0.30094772 0.51076813 1.        ]
+fk best = -0.3992979566691499
+w = [0.2737598  0.1206372  0.20474532 0.40085767]
+Performance(w) = 0.5348189516271495
+Risk(w) = 0.09034732997199978
+ë*Risk(w) = 0.13552099495799966
+ 
+ITERATIONS - FUNCTION and GRADIENT CALLS
+AVAILABLE COMPUTATIONAL BUDGET :  2000 (plus a few extra because it stops when f_calls > 2000)
+k = 106
+Function Calls = 2016
+Gradient Calls = 1911
+*****************************************************

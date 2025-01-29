@@ -1,0 +1,11 @@
+
+Method-Result File Correspondence:
+
+1) Wolfe Conditions Line Search BFGS Results -> ls_bfgs_results.txt
+
+2) Dogleg BFGS -> dogleg_bfgs_results.txt
+
+3) Polak_Ribiere Conjugate Gradient -> cj_polak_ribiere_results.txt
+
+
+The print output for any execution for any method contains all necessary information for result replication. 
